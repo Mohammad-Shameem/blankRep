@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Doctors Portal",
-    "live": "doctors-portal-fea8c.web.app",
+    "live": "https://doctors-portal-fea8c.web.app/",
     "img": "https://i.ibb.co/svrKdhX/Screenshot-8.png",
     "img1":"https://i.ibb.co/Sfd51Yc/Screenshot-12.jpg",
     "img2":"https://i.ibb.co/p4tKRW1/Screenshot-14.png",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "name": "Zoho Inventory",
-    "live": "zoho-inventory-40590.web.app",
+    "live": "https://zoho-inventory-40590.web.app/",
     "img": "https://i.ibb.co/F7XBmgF/Screenshot-6.png",
     "img1":"https://i.ibb.co/rbCwqFF/Screenshot-9.png",
     "img2":"https://i.ibb.co/6NMzRfh/Screenshot-11.png",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "name": "Computer Manufacturer",
-    "live": "computer-manufacturer-parts.web.app",
+    "live": "https://computer-manufacturer-parts.web.app/",
     "img": "https://i.ibb.co/ZSVwxQ0/Screenshot-7.png",
     "img1":"https://i.ibb.co/g7J5t1g/Screenshot-16.png",
     "img2":"https://i.ibb.co/bLBfcZt/Screenshot-17.png",
