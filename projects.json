@@ -23,7 +23,7 @@
   {
     "id": 2,
     "name": "Zoho Inventory",
-    "live": "https://zoho-inventory-40590.web.app/",
+    "live": "zoho-inventory-40590.firebaseapp.com",
     "img": "https://i.ibb.co/F7XBmgF/Screenshot-6.png",
     "img1":"https://i.ibb.co/rbCwqFF/Screenshot-9.png",
     "img2":"https://i.ibb.co/6NMzRfh/Screenshot-11.png",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "name": "Computer Manufacturer",
-    "live": "https://computer-manufacturer-parts.web.app/",
+    "live": "https://computer-manufacturer-parts.firebaseapp.com/",
     "img": "https://i.ibb.co/ZSVwxQ0/Screenshot-7.png",
     "img1":"https://i.ibb.co/g7J5t1g/Screenshot-16.png",
     "img2":"https://i.ibb.co/bLBfcZt/Screenshot-17.png",
