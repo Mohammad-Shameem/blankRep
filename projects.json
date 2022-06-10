@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Doctors Portal",
+    "title":"Clinic management site",
     "live": "https://doctors-portal-fea8c.firebaseapp.com/",
     "img": "https://i.ibb.co/svrKdhX/Screenshot-8.png",
     "img1":"https://i.ibb.co/Sfd51Yc/Screenshot-12.jpg",
@@ -23,6 +24,7 @@
   {
     "id": 2,
     "name": "Zoho Inventory",
+    "title":"Inventory management service",
     "live": "zoho-inventory-40590.firebaseapp.com",
     "img": "https://i.ibb.co/F7XBmgF/Screenshot-6.png",
     "img1":"https://i.ibb.co/rbCwqFF/Screenshot-9.png",
@@ -42,6 +44,7 @@
   {
     "id": 3,
     "name": "Computer Manufacturer",
+    "title":"Coumputer parts manufacturer site"
     "live": "https://computer-manufacturer-parts.firebaseapp.com/",
     "img": "https://i.ibb.co/ZSVwxQ0/Screenshot-7.png",
     "img1":"https://i.ibb.co/g7J5t1g/Screenshot-16.png",
