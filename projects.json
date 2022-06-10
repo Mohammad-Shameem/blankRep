@@ -4,6 +4,8 @@
     "name": "Doctors Portal",
     "live": "doctors-portal-fea8c.web.app",
     "img": "https://i.ibb.co/svrKdhX/Screenshot-8.png",
+    "img1":"https://i.ibb.co/Sfd51Yc/Screenshot-12.jpg",
+    "img2":"https://i.ibb.co/p4tKRW1/Screenshot-14.png",
     "tecnology": [
       "React",
       "React Date Picker",
@@ -14,8 +16,8 @@
       "MongoDb"
     ],
 
-    "githubClient": "",
-    "githubServer": "",
+    "githubClient": "https://github.com/Mohammad-Shameem/doctors-portal-client",
+    "githubServer": "https://github.com/Mohammad-Shameem/doctors-portal-server",
     "project": "Clinic management site"
   },
   {
@@ -23,6 +25,8 @@
     "name": "Zoho Inventory",
     "live": "zoho-inventory-40590.web.app",
     "img": "https://i.ibb.co/F7XBmgF/Screenshot-6.png",
+    "img1":"https://i.ibb.co/rbCwqFF/Screenshot-9.png",
+    "img2":"https://i.ibb.co/6NMzRfh/Screenshot-11.png",
     "tecnology": [
       "React",
       "Tailwind",
@@ -31,8 +35,8 @@
       "Express.js",
       "MongoDb"
     ],
-    "githubClient": "",
-    "githubServer": "",
+    "githubClient": "https://github.com/Mohammad-Shameem/zoho-inventory-client",
+    "githubServer": "https://github.com/Mohammad-Shameem/zoho-inventory-server",
     "project": "Inventory management site"
   },
   {
@@ -40,6 +44,8 @@
     "name": "Computer Manufacturer",
     "live": "computer-manufacturer-parts.web.app",
     "img": "https://i.ibb.co/ZSVwxQ0/Screenshot-7.png",
+    "img1":"https://i.ibb.co/g7J5t1g/Screenshot-16.png",
+    "img2":"https://i.ibb.co/bLBfcZt/Screenshot-17.png",
     "tecnology": [
       "React",
       "Tailwind",
@@ -51,8 +57,8 @@
       "Stripe",
       "Mailgun"
     ],
-    "githubClient": "",
-    "githubServer": "",
+    "githubClient": "https://github.com/Mohammad-Shameem/computer-manufacturer-client",
+    "githubServer": "https://github.com/Mohammad-Shameem/computer-manufacturer-server",
     "project": "computer manufacturer parts management site"
   }
 ]
