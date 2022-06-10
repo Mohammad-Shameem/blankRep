@@ -9,12 +9,13 @@
     "img2":"https://i.ibb.co/p4tKRW1/Screenshot-14.png",
     "tecnology": [
       "React",
+      "Date",
       "Tailwind",
       "DaisyUi",
       "Node.js",
       "Express.js",
       "MongoDb",
-      "Date"
+      
     ],
 
     "githubClient": "https://github.com/Mohammad-Shameem/doctors-portal-client",
