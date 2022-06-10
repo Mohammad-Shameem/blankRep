@@ -13,7 +13,8 @@
       "DaisyUi",
       "Node.js",
       "Express.js",
-      "MongoDb"
+      "MongoDb",
+      "Date Picker"
     ],
 
     "githubClient": "https://github.com/Mohammad-Shameem/doctors-portal-client",
